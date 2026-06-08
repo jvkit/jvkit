@@ -17,8 +17,7 @@
 
 <br/>
 
-<!-- 修复后的访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=blue&style=for-the-badge&label=江湖访客" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=brightgreen&style=for-the-badge&label=江湖访客" />
 
 </div>
 
@@ -37,16 +36,14 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────┐
-│  🎭 游戏ID：风屿                          │
-│  🏰 服务器：江湖传闻服务器（懂的都懂）       │
-│  🎵 职业：鸿音 · 一手琵琶定乾坤              │
-│  💰 财富：无更市百万撤离专业户              │
-│  🎖️ 称号：夜游神终结者                     │
-│  📅 入坑：从开服第一天就没下过线            │
-└─────────────────────────────────────────┘
-```
+<table align="center">
+  <tr><td><b>🎭 游戏ID</b></td><td>风屿</td></tr>
+  <tr><td><b>🏰 服务器</b></td><td>江湖传闻服务器（懂的都懂）</td></tr>
+  <tr><td><b>🎵 职业</b></td><td>鸿音 · 一手琵琶定乾坤</td></tr>
+  <tr><td><b>💰 财富</b></td><td>无更市百万撤离专业户</td></tr>
+  <tr><td><b>🎖️ 称号</b></td><td>夜游神终结者</td></tr>
+  <tr><td><b>📅 入坑</b></td><td>从开服第一天就没下过线</td></tr>
+</table>
 
 > *"代码是工作，游戏是生活，逆水寒是信仰。"* —— 风屿
 
@@ -411,6 +408,6 @@ def 风屿的日常():
 
 *"人生苦短，及时行乐，不如来把无更市。"*
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=blue&style=flat-square&label=江湖访客数" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=brightgreen&style=flat-square&label=江湖访客数" />
 
 </div>

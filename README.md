@@ -17,20 +17,25 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=000000&style=for-the-badge&label=江湖访客" />
+<!-- 修复后的访客计数 -->
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=blue&style=for-the-badge&label=江湖访客" />
 
 </div>
 
 ---
 
-<!-- 逆水寒宣传大图 -->
+<!-- 逆水寒水墨大图 -->
 <div align="center">
-  <img src="./assets/nsh-cover.png" width="80%" alt="逆水寒手游" />
+  <img src="./assets/nsh-ink.jpg" width="70%" alt="逆水寒" />
+  <br/>
+  <sub><i>一入江湖岁月催，不胜人生一场醉</i></sub>
 </div>
 
 ---
 
 ## ⚔️ 江湖档案
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────┐
@@ -45,11 +50,123 @@
 
 > *"代码是工作，游戏是生活，逆水寒是信仰。"* —— 风屿
 
+</div>
+
+---
+
+## 🎭 本座的多重身份
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="./assets/avatar.jpg" width="100%" />
+      <br/>
+      <sub>🌙 月下独酌 · 白衣胜雪</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./assets/closeup.jpg" width="100%" />
+      <br/>
+      <sub>💜 紫眸倾城 · 一眼万年</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./assets/field.jpg" width="100%" />
+      <br/>
+      <sub>⚔️ 89级风屿 · 花海战神</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**一人千面，面面风华绝代**
+
+> 白天是白衣飘飘的鸿音仙子，晚上是戴着"一瞑不视"高帽的无常使。
+> 别问，问就是江湖规矩。
+
+</div>
+
+---
+
+## 👫 大小号合影 · 双生风华
+
+<div align="center">
+
+<img src="./assets/duo.jpg" width="70%" />
+
+<br/>
+
+<sub>左边是仙女下凡，右边是地府出差。一格电和一瞑不视，绝配。</sub>
+
+</div>
+
+---
+
+## 🐰 第三形态 · 兔耳萌神降临
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="./assets/bunny-face.jpg" width="100%" />
+      <br/>
+      <sub>异色瞳 · 创可贴是战损美学</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/bunny-full.jpg" width="100%" />
+      <br/>
+      <sub>粉色蓬蓬裙 · 萌即正义</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/bunny-duo.jpg" width="100%" />
+      <br/>
+      <sub>冰火两重天 · 红蓝CP</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/face-share.jpg" width="100%" />
+      <br/>
+      <sub>捏脸数据 · 设计师YuT出品</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> *"谁说打鬼尊的不能可爱？我粉毛兔耳一样把他按在地上摩擦。"*
+
+</div>
+
 ---
 
 ## 🏴‍☠️ 瀚海夺珍战绩墙
 
 <div align="center">
+
+### 💰 无更市欧皇开箱
+
+<img src="./assets/wugeng-chest.jpg" width="60%" />
+
+<sub>风屿 & 慕秋云 双排，争锋战利匣直接开出辟尘珏 + 透骨锥，收益 **296,233**</sub>
+
+<br/><br/>
+
+### 🔥 千万撤离 · 天下无双
+
+<img src="./assets/evac-million.jpg" width="60%" />
+
+<sub>撤离成功！本局收获 **1,126,8385** 海利通宝，新纪录！鎏愿摇钱树、明光曜日铠全打包带走</sub>
+
+<br/><br/>
+
+### 📦 满仓库彩色变卖物
+
+<img src="./assets/full-storage.jpg" width="60%" />
+
+<sub>仓库 305/305 爆满！5.7亿铜钱在手，日曜舵轮、海兽敦邦铜镜、鸽鸽的金蛋... 这仓库，鬼尊看了都眼红</sub>
+
+<br/><br/>
 
 | 地图 | 战绩 | 称号 |
 |:----:|:----:|:----:|
@@ -58,12 +175,9 @@
 | ⚰️ **苏吉丹岛** | 绝境难度存活 | 不死传说 |
 | 👻 **夜游人** | 击杀数：数不清了 | 夜游人总管 |
 
-<br/>
+</div>
 
-<!-- 无更市宣传图 -->
-<img src="./assets/wugengshi1.jpg" width="70%" alt="无更市" />
-
-<br/><br/>
+---
 
 ### 👻 鬼尊？那是我儿子
 
@@ -78,13 +192,6 @@
 ```
 
 > 🎵 *"琵琶声起，鬼尊倒地。不是鬼尊太弱，是鸿音太强。"* —— 风屿
-
-<br/>
-
-<!-- 瀚海夺珍攻略图 -->
-<img src="./assets/hhzg-guide.png" width="70%" alt="瀚海夺珍" />
-
-</div>
 
 ---
 
@@ -132,7 +239,7 @@
 
 <div align="center">
 
-<img src="./assets/wugengshi2.jpg" width="60%" alt="无更市风景" />
+<img src="./assets/wugengshi1.jpg" width="50%" />
 
 </div>
 
@@ -150,6 +257,80 @@
 9. 百万撤离不是梦，是日常 💰
 10. 最重要的是：开心就好，毕竟我是鬼尊他爹 😎
 ```
+
+---
+
+## 👑 王者荣耀 · MVP时刻
+
+<div align="center">
+
+<img src="./assets/honor-mvp.jpg" width="50%" />
+
+<br/>
+
+<sub>英雄：遗憾（镜）| 称号：MVP | 旁边老夫子助人为乐，东皇太一铜墙铁壁 —— 而我，是带飞全场的那个</sub>
+
+<br/>
+
+> *"逆水寒里我鸿音打爆鬼尊，王者峡谷我镜姐乱杀全场。"*
+
+</div>
+
+---
+
+## 🎤 舞台C位 · 江湖idol
+
+<div align="center">
+
+<img src="./assets/stage.jpg" width="70%" />
+
+<br/>
+
+<sub>打得了鬼尊，上得了舞台。左边是甜妹担当，右边是酷飒主唱，风屿一人分饰两角。</sub>
+
+</div>
+
+---
+
+## 🙏 禅意江湖 · 佛前一拜
+
+<div align="center">
+
+<img src="./assets/buddha.jpg" width="60%" />
+
+<br/>
+
+<sub>身后大佛庄严，头顶兔耳俏皮。这就是风屿，亦正亦邪，可萌可飒。</sub>
+
+</div>
+
+---
+
+## 🌨️ 雪域双生 · 唯美映画
+
+<div align="center">
+
+<video src="./assets/snowboard.mp4" width="70%" autoplay loop muted playsinline></video>
+
+<br/>
+
+<sub>雪山之巅，双影翩翩。白衣仙子与黑衣酷姐共乘一板，这就是江湖的浪漫。</sub>
+
+</div>
+
+---
+
+## ✨ 拾眼便萧萧 · 唯美定格
+
+<div align="center">
+
+<img src="./assets/moonlight.jpg" width="70%" />
+
+<br/>
+
+<sub>月色如水，雪花纷飞。抬眼便萧萧，一眼误终生。</sub>
+
+</div>
 
 ---
 
@@ -230,6 +411,6 @@ def 风屿的日常():
 
 *"人生苦短，及时行乐，不如来把无更市。"*
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=000000&style=flat-square&label=江湖访客数" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=blue&style=flat-square&label=江湖访客数" />
 
 </div>

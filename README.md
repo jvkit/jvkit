@@ -1,205 +1,234 @@
 <div align="center">
 
-<!-- 3D 动态头部 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=jvkit&fontColor=fff&fontSize=90&animation=twinkling&stroke=000&strokeWidth=2" alt="Header" />
+<!-- 江湖风动态头部 -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,14,16,20,24&text=风屿&fontColor=fff&fontSize=100&animation=twinkling&stroke=8B0000&strokeWidth=3" alt="Header" />
 
 <br/><br/>
 
-<!-- 打字机效果 - 多行酷炫文案 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Builder+%F0%9F%9A%80;Vue+%2B+Nuxt+%2B+Python+%2B+FastAPI;Crawler+Master+%F0%9F%95%B7%EF%B8%8F;Terminal+Theme+Designer+%F0%9F%8E%A8;Coffee+%E2%86%92+Code+Converter+%E2%98%95;Always+Coding%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing Animation" />
+<!-- 江湖打字机 -->
+<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=700&size=24&duration=2500&pause=600&color=FF4444&center=true&vCenter=true&width=750&lines=%E9%80%86%E6%B0%B4%E5%AF%92%E7%80%9A%E6%B5%B7%E5%A4%BA%E7%8F%8D%E4%BC%A0%E8%AF%B4+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;%E6%97%A0%E6%9B%B4%E5%B8%82%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C%E4%BD%9C%E8%80%85+%F0%9F%93%9C;%E9%AC%BC%E5%B0%8A%E7%9A%84%E5%86%8D%E7%94%9F%E7%88%B6%E4%BA%B2+%F0%9F%91%BB;%E5%A4%9C%E6%B8%B8%E4%BA%BA%E6%80%BB%E7%AE%A1+%F0%9F%8C%99;%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%80%E8%B7%AF%E4%B9%B1%E6%9D%80+%F0%9F%91%91;%E5%85%89%E9%81%87%E9%A3%98%E6%B3%8A%E8%80%85+%E2%9C%A8;%E6%B1%9F%E6%B9%96%E4%B8%8D%E6%98%AF%E6%89%93%E6%9D%80%E5%B0%B1%E6%98%AF%E8%A2%AB%E6%89%93%E6%AD%BB+%F0%9F%8E%AE" alt="Typing" />
 
 <br/><br/>
 
-<!-- 状态徽章矩阵 -->
-<a href="https://github.com/jvkit">
-  <img src="https://img.shields.io/badge/Status-Coding%20Hard-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://github.com/jvkit?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-15+-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://github.com/jvkit?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-8+-FFD93D?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117" />
-</a>
+<!-- 游戏状态徽章 -->
+<img src="https://img.shields.io/badge/🎮-游戏时长%201000%2B%20h-FF4444?style=for-the-badge&logo=steam&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🏆-段位%20传说-FFD700?style=for-the-badge&logo=award&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/💀-击杀%20夜游神%20N%2B-8B00FF?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0D1117" />
 
 <br/>
 
-<!-- 动态徽章 -->
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/jvkit?color=FF6B6B&label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=FF4444&style=for-the-badge&label=江湖访客" />
 
 </div>
 
 ---
 
-<!-- 波浪分隔线 -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<!-- 逆水寒宣传大图 -->
+<div align="center">
+  <img src="http://i.17173cdn.com/0561y4/YWxqaGBf/gamebase/game-cover-horizontal/HlcFJGbttijcnar.png" width="80%" alt="逆水寒手游" />
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+---
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+## ⚔️ 江湖档案
 
-class JunVon:
-    def __init__(self):
-        self.name = "jun_von"
-        self.handle = "jvkit"
-        self.mood = "😋 Focusing"
-        self.stack = ["Vue", "Nuxt", "Python", "FastAPI", "JavaScript"]
-        self.interests = ["Web Crawling", "Frontend Magic", "Terminal Themes", "Automation"]
-        self.fuel = "☕ Coffee"
-        self.status = "Always Building"
+```
+┌─────────────────────────────────────────┐
+│  🎭 游戏ID：风屿                          │
+│  🏰 服务器：江湖传闻服务器（懂的都懂）       │
+│  🎵 职业：鸿音 · 一手琵琶定乾坤              │
+│  💰 财富：无更市百万撤离专业户              │
+│  🎖️ 称号：夜游神终结者                     │
+│  📅 入坑：从开服第一天就没下过线            │
+└─────────────────────────────────────────┘
+```
 
-    def ship_it(self):
-        while True:
-            self.code()
-            self.commit()
-            self.deploy()
-            self.drink_coffee()
-            # Repeat forever ♾️
+> *"代码是工作，游戏是生活，逆水寒是信仰。"* —— 风屿
 
-    def __str__(self):
-        return f"{self.name} | {self.status} | {' · '.join(self.stack)}"
+---
 
-me = JunVon()
-print(me)  # → jun_von | Always Building | Vue · Nuxt · Python · FastAPI · JavaScript
+## 🏴‍☠️ 瀚海夺珍战绩墙
+
+<div align="center">
+
+| 地图 | 战绩 | 称号 |
+|:----:|:----:|:----:|
+| 🏝️ **刺桐港** | 险境百万撤离 × N | 港岛幽灵 |
+| 🌙 **无更市** | 单刷鬼尊 / 傀潮通关 | 无更主宰 |
+| ⚰️ **苏吉丹岛** | 绝境难度存活 | 不死传说 |
+| 👻 **夜游人** | 击杀数：数不清了 | 夜游人总管 |
+
+<br/>
+
+<!-- 无更市宣传图 -->
+<img src="https://img.166.net/reunionpub/kol_20260228_a0d873a118928153a7303f5806fa2f5a?imageView&tostatic=0&thumbnail=1500x0" width="70%" alt="无更市" />
+
+<br/><br/>
+
+### 👻 鬼尊？那是我儿子
+
+```diff
++ 曾用名：鬼尊的再生父亲
++ 现用名：黄泉主祭的噩梦
++ 职业：鸿音 · 琵琶在手天下我有
++ 技能：落阴祭坛三秒开完 + 鸿音一曲鬼尊跪
++ 成就：无更市十大规则倒背如流
++ 口头禅："蓝白绿红，闭着眼睛点"
++ 必杀技：一手鸿音打得鬼尊找不着北 🎵💀
+```
+
+> 🎵 *"琵琶声起，鬼尊倒地。不是鬼尊太弱，是鸿音太强。"* —— 风屿
+
+<br/>
+
+<!-- 瀚海夺珍攻略图 -->
+<img src="http://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/DaMUfWbtjabliyp.png" width="70%" alt="瀚海夺珍" />
+
+</div>
+
+---
+
+## 🎮 游戏装备库
+
+<div align="center">
+
+<!-- 游戏图标 -->
+<img src="https://img.shields.io/badge/逆水寒手游-FF4444?style=for-the-badge&logo=gamepad&logoColor=white" />
+<img src="https://img.shields.io/badge/王者荣耀-FFD700?style=for-the-badge&logo=crown&logoColor=black" />
+<img src="https://img.shields.io/badge/光遇-87CEEB?style=for-the-badge&logo=cloud&logoColor=white" />
+
+<br/><br/>
+
+| 游戏 | 段位/成就 | 战力 |
+|:----:|:---------|:----:|
+| 🏯 逆水寒手游 | 瀚海夺珍传说猎手 | 🔥🔥🔥🔥🔥 |
+| 👑 王者荣耀 | 荣耀王者 | ⭐⭐⭐⭐⭐ |
+| 🕯️ 光遇 | 十翼老玩家 | ✨✨✨✨ |
+| 🕷️ 其他 | 见一个爱一个 | 💀 |
+
+<br/>
+
+<!-- 技能条 -->
+**🎯 搜打撤精通**
+![](https://geps.dev/progress/98?color=FF4444)
+
+**⚔️ 论武/帮战**
+![](https://geps.dev/progress/92?color=FFD700)
+
+**🌙 夜游人猎杀**
+![](https://geps.dev/progress/100?color=8B00FF)
+
+**👑 王者峡谷乱杀**
+![](https://geps.dev/progress/88?color=00BFFF)
+
+**🕯️ 光遇跑图**
+![](https://geps.dev/progress/85?color=87CEEB)
+
+</div>
+
+---
+
+## 🌙 无更市生存法则（风屿亲笔）
+
+<div align="center">
+
+<img src="https://img.166.net/reunionpub/kol_20260228_44a9a619b67af2903f18693f647dee2e?imageView&tostatic=0&thumbnail=1500x0" width="60%" alt="无更市风景" />
+
+</div>
+
+<br/>
+
+```markdown
+1. 进门先关门，这是礼貌 🚪
+2. 草丛别久蹲，总监会来查岗 🌿
+3. 鬼尊点蓝白，红火爱点不点 🔥
+4. 撤离提前走，最后一秒是大忌 ⏰
+5. 双排别坑队友，除非队友先坑你 🤝
+6. 夜游人看到就跑？不，我是追着夜游人跑 💀
+7. 傀潮来了找高地，别傻站着挨打 🌊
+8. 血月天气别慌，慌的是别人 🌑
+9. 百万撤离不是梦，是日常 💰
+10. 最重要的是：开心就好，毕竟我是鬼尊他爹 😎
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 顺便提一下（真的只是一下）
+
+<details>
+<summary>👈 点展开看我无聊时会写的代码（真的很少写）</summary>
+
+<br/>
+
+```python
+# 虽然我是个游戏玩家，但偶尔也会写两行代码...
+# 主要是为了自动化挂机（开玩笑的）
+
+def 风屿的日常():
+    while True:
+        逆水寒.瀚海夺珍.搜刮()
+        逆水寒.无更市.刷鬼尊()
+        王者.排位.上分()
+        光遇.跑图.收烛火()
+        if 不是周末:
+            随便写两行代码()  # 维持一下人设
+        睡觉()  # 游戏玩家不需要睡觉
+```
+
+<br/>
+
+*技术栈：Vue / Nuxt / Python / FastAPI —— 但谁关心这个啊，来一起打游戏啊！*
+
+</details>
+
+---
+
+## 📊 GitHub？那是啥，能吃吗？
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jvkit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=jvkit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FFD700&text_color=FFFFFF&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvkit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=FFFFFF" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jvkit&theme=radical&hide_border=true&background=0D1117&stroke=FF4444&ring=FFD700&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🐍 我的江湖足迹
 
 <div align="center">
 
-<!-- 技能图标矩阵 -->
-<img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,python,fastapi,nodejs,git,vscode,powershell&theme=dark&perline=5" alt="Skills" />
-
-<br/><br/>
-
-<!-- 技能进度条 -->
-| Technology | Proficiency |
-|:-----------|:-----------|
-| <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /> | ![](https://geps.dev/progress/92?color=4FC08D) |
-| <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white" /> | ![](https://geps.dev/progress/88?color=00C58E) |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | ![](https://geps.dev/progress/90?color=3776AB) |
-| <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> | ![](https://geps.dev/progress/85?color=009688) |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | ![](https://geps.dev/progress/87?color=F7DF1E) |
-| <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" /> | ![](https://geps.dev/progress/80?color=5391FE) |
-
-</div>
-
----
-
-## 📦 Featured Projects
-
-<div align="center">
-
-<!-- 项目卡片 - 大展示 -->
-<a href="https://github.com/jvkit/crwaler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=crwaler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%" />
-</a>
-<a href="https://github.com/jvkit/scene">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=scene&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jvkit/oh_my_posh_theme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=oh_my_posh_theme&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFD93D&text_color=FFFFFF" width="49%" />
-</a>
-<a href="https://github.com/jvkit/excel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=excel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=4FC08D&text_color=FFFFFF" width="49%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jvkit/Qs_firm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=Qs_firm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%" />
-</a>
-<a href="https://github.com/jvkit/nuxt4_qs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvkit&repo=nuxt4_qs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00C58E&text_color=FFFFFF" width="49%" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- 主统计 + 语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api?username=jvkit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvkit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="195" />
-
-<br/><br/>
-
-<!-- 连续提交统计 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jvkit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- 3D 贡献图 -->
-<img src="https://github-contribution-graph-svg.vercel.app/graph?username=jvkit&theme=tokyo-night&bg=0D1117&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="3D Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- 蛇形动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-## 🎯 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvkit&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+## 💬 江湖规矩：扫码加好友
 
-</div>
-
----
-
-## 💻 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- 底部波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&animation=twinkling" width="100%" />
+> *"无更市见，别让我看到你被鬼尊追着跑。"*
 
 <br/>
 
-**Made with 🔥 and ☕ by jvkit**
+<!-- 底部 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=120&section=footer&animation=twinkling" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=00D9FF&style=flat-square&label=Total+Views" alt="Total Views" />
+<br/>
+
+**Made with 🎮 and ❤️ by 风屿 (jvkit)**
+
+*"人生苦短，及时行乐，不如来把无更市。"*
+
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=FF4444&style=flat-square&label=江湖访客数" />
 
 </div>

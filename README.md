@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/badge/🏆-段位%20传说-FFD700?style=for-the-badge&logo=award&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/💀-击杀%20夜游神%20N%2B-8B00FF?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0D1117" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=brightgreen&style=for-the-badge&label=江湖访客" />
 
 </div>
 
@@ -38,14 +35,14 @@
 
 <table align="center">
   <tr><td><b>🎭 游戏ID</b></td><td>风屿</td></tr>
-  <tr><td><b>🏰 服务器</b></td><td>江湖传闻服务器（懂的都懂）</td></tr>
+  <tr><td><b>🏰 服务器</b></td><td>鬼区之满堂花醉</td></tr>
   <tr><td><b>🎵 职业</b></td><td>鸿音 · 一手琵琶定乾坤</td></tr>
-  <tr><td><b>💰 财富</b></td><td>无更市百万撤离专业户</td></tr>
-  <tr><td><b>🎖️ 称号</b></td><td>夜游神终结者</td></tr>
+  <tr><td><b>💰 财富</b></td><td>无更市千万撤离专业户</td></tr>
+  <tr><td><b>🎖️ 称号</b></td><td>夜游神终结者（等鬼潮看我不收拾你！）</td></tr>
   <tr><td><b>📅 入坑</b></td><td>从开服第一天就没下过线</td></tr>
 </table>
 
-> *"代码是工作，游戏是生活，逆水寒是信仰。"* —— 风屿
+> *"代码是工作，游戏是生活，逆水寒是信仰。"*
 
 </div>
 
@@ -60,17 +57,17 @@
     <td width="33%" align="center">
       <img src="./assets/avatar.jpg" width="100%" />
       <br/>
-      <sub>🌙 月下独酌 · 白衣胜雪</sub>
+      <sub>🌙 小号也是给我帅到了</sub>
     </td>
     <td width="33%" align="center">
       <img src="./assets/closeup.jpg" width="100%" />
       <br/>
-      <sub>💜 紫眸倾城 · 一眼万年</sub>
+      <sub>💜 这军衣，真的爱死了</sub>
     </td>
     <td width="33%" align="center">
       <img src="./assets/field.jpg" width="100%" />
       <br/>
-      <sub>⚔️ 89级风屿 · 花海战神</sub>
+      <sub>⚔️ 帅帅帅！！！！！</sub>
     </td>
   </tr>
 </table>
@@ -79,14 +76,14 @@
 
 **一人千面，面面风华绝代**
 
-> 白天是白衣飘飘的鸿音仙子，晚上是戴着"一瞑不视"高帽的无常使。
-> 别问，问就是江湖规矩。
+> 鸿音大人驾到，尔等为何不跪？
+> 冥王为你收尸来了；
 
 </div>
 
 ---
 
-## 👫 大小号合影 · 双生风华
+## 合影，感觉大小号有种莫名的相似
 
 <div align="center">
 
@@ -94,13 +91,13 @@
 
 <br/>
 
-<sub>左边是仙女下凡，右边是地府出差。一格电和一瞑不视，绝配。</sub>
+<sub>这是白色的蓝兔</sub>
 
 </div>
 
 ---
 
-## 🐰 第三形态 · 兔耳萌神降临
+## 这双马尾是真绝，非常喜欢呀
 
 <div align="center">
 
@@ -109,7 +106,7 @@
     <td width="25%" align="center">
       <img src="./assets/bunny-face.jpg" width="100%" />
       <br/>
-      <sub>异色瞳 · 创可贴是战损美学</sub>
+      <sub>异色瞳 · 豪堪豪堪</sub>
     </td>
     <td width="25%" align="center">
       <img src="./assets/bunny-full.jpg" width="100%" />
@@ -119,12 +116,12 @@
     <td width="25%" align="center">
       <img src="./assets/bunny-duo.jpg" width="100%" />
       <br/>
-      <sub>冰火两重天 · 红蓝CP</sub>
+      <sub>苦笑女是真帅，期望能在血月相逢</sub>
     </td>
     <td width="25%" align="center">
       <img src="./assets/face-share.jpg" width="100%" />
       <br/>
-      <sub>捏脸数据 · 设计师YuT出品</sub>
+      <sub>两个最爱的捏脸之一</sub>
     </td>
   </tr>
 </table>
@@ -145,7 +142,7 @@
 
 <img src="./assets/wugeng-chest.jpg" width="60%" />
 
-<sub>风屿 & 慕秋云 双排，争锋战利匣直接开出辟尘珏 + 透骨锥，收益 **296,233**</sub>
+<sub>有时候的棺材大人还是蛮给力的，小号还同时出了灯笼哦</sub>
 
 <br/><br/>
 
@@ -153,7 +150,7 @@
 
 <img src="./assets/evac-million.jpg" width="60%" />
 
-<sub>撤离成功！本局收获 **1,126,8385** 海利通宝，新纪录！鎏愿摇钱树、明光曜日铠全打包带走</sub>
+<sub>撤离成功！本局收获 **1,126,8385** 海利通宝，闪光鎏愿摇钱树！</sub>
 
 <br/><br/>
 
@@ -161,16 +158,16 @@
 
 <img src="./assets/full-storage.jpg" width="60%" />
 
-<sub>仓库 305/305 爆满！5.7亿铜钱在手，日曜舵轮、海兽敦邦铜镜、鸽鸽的金蛋... 这仓库，鬼尊看了都眼红</sub>
+<sub>仓库 305/305 爆满，什么时候为我加仓，我的蓝都之心无处安放了！！！5.7亿贝壳在手，鬼尊看了都眼红</sub>
 
 <br/><br/>
 
 | 地图 | 战绩 | 称号 |
 |:----:|:----:|:----:|
-| 🏝️ **刺桐港** | 险境百万撤离 × N | 港岛幽灵 |
+| 🏝️ **刺桐港** | 险境千万撤离 × N | 港岛幽灵 |
 | 🌙 **无更市** | 单刷鬼尊 / 傀潮通关 | 无更主宰 |
 | ⚰️ **苏吉丹岛** | 绝境难度存活 | 不死传说 |
-| 👻 **夜游人** | 击杀数：数不清了 | 夜游人总管 |
+| 👻 **夜游人** | 未成年，你给我等着 | 夜游人总管 |
 
 </div>
 
@@ -180,15 +177,15 @@
 
 ```diff
 + 曾用名：鬼尊的再生父亲
-+ 现用名：黄泉主祭的噩梦
-+ 职业：鸿音 · 琵琶在手天下我有
++ 现用名：黄泉主祭的噩梦（风屿其实是）
++ 职业：鸿音 · 琵琶在手天下我有（加强！！！）
 + 技能：落阴祭坛三秒开完 + 鸿音一曲鬼尊跪
 + 成就：无更市十大规则倒背如流
 + 口头禅："蓝白绿红，闭着眼睛点"
 + 必杀技：一手鸿音打得鬼尊找不着北 🎵💀
 ```
 
-> 🎵 *"琵琶声起，鬼尊倒地。不是鬼尊太弱，是鸿音太强。"* —— 风屿
+> 🎵 *"小小鬼尊，还完蓝都之心！！！！"* 
 
 ---
 
@@ -205,9 +202,9 @@
 
 | 游戏 | 段位/成就 | 战力 |
 |:----:|:---------|:----:|
-| 🏯 逆水寒手游 | 瀚海夺珍传说猎手 | 🔥🔥🔥🔥🔥 |
+| 🏯 逆水寒手游 | 无更市之王 | 🔥🔥🔥🔥🔥 |
 | 👑 王者荣耀 | 荣耀王者 | ⭐⭐⭐⭐⭐ |
-| 🕯️ 光遇 | 十翼老玩家 | ✨✨✨✨ |
+| 🕯️ 光遇 | 十四翼老玩家 | ✨✨✨✨ |
 | 🕷️ 其他 | 见一个爱一个 | 💀 |
 
 <br/>
@@ -232,30 +229,6 @@
 
 ---
 
-## 🌙 无更市生存法则（风屿亲笔）
-
-<div align="center">
-
-<img src="./assets/wugengshi1.jpg" width="50%" />
-
-</div>
-
-<br/>
-
-```markdown
-1. 进门先关门，这是礼貌 🚪
-2. 草丛别久蹲，总监会来查岗 🌿
-3. 鬼尊点蓝白，红火爱点不点 🔥
-4. 撤离提前走，最后一秒是大忌 ⏰
-5. 双排别坑队友，除非队友先坑你 🤝
-6. 夜游人看到就跑？不，我是追着夜游人跑 💀
-7. 傀潮来了找高地，别傻站着挨打 🌊
-8. 血月天气别慌，慌的是别人 🌑
-9. 百万撤离不是梦，是日常 💰
-10. 最重要的是：开心就好，毕竟我是鬼尊他爹 😎
-```
-
----
 
 ## 👑 王者荣耀 · MVP时刻
 
@@ -265,17 +238,17 @@
 
 <br/>
 
-<sub>英雄：遗憾（镜）| 称号：MVP | 旁边老夫子助人为乐，东皇太一铜墙铁壁 —— 而我，是带飞全场的那个</sub>
+<sub>遗憾| MVP </sub>
 
 <br/>
 
-> *"逆水寒里我鸿音打爆鬼尊，王者峡谷我镜姐乱杀全场。"*
+> *"逆水寒里我鸿音打爆鬼尊，王者峡谷我叱咤乱杀全场。"*
 
 </div>
 
 ---
 
-## 🎤 舞台C位 · 江湖idol
+## 🎤 演唱会万岁
 
 <div align="center">
 
@@ -283,13 +256,13 @@
 
 <br/>
 
-<sub>打得了鬼尊，上得了舞台。左边是甜妹担当，右边是酷飒主唱，风屿一人分饰两角。</sub>
+<sub>耶耶耶</sub>
 
 </div>
 
 ---
 
-## 🙏 禅意江湖 · 佛前一拜
+## 啥剧情来着，帅呆了
 
 <div align="center">
 
@@ -297,21 +270,7 @@
 
 <br/>
 
-<sub>身后大佛庄严，头顶兔耳俏皮。这就是风屿，亦正亦邪，可萌可飒。</sub>
-
-</div>
-
----
-
-## 🌨️ 雪域双生 · 唯美映画
-
-<div align="center">
-
-<video src="./assets/snowboard.mp4" width="70%" autoplay loop muted playsinline></video>
-
-<br/>
-
-<sub>雪山之巅，双影翩翩。白衣仙子与黑衣酷姐共乘一板，这就是江湖的浪漫。</sub>
+<sub>我佛咕咕嘎嘎</sub>
 
 </div>
 
@@ -334,7 +293,7 @@
 ## 💻 顺便提一下（真的只是一下）
 
 <details>
-<summary>👈 点展开看我无聊时会写的代码（真的很少写）</summary>
+<summary>👈 点展开看我无聊时会写的代码</summary>
 
 <br/>
 
@@ -355,20 +314,16 @@ def 风屿的日常():
 
 <br/>
 
-*技术栈：Vue / Nuxt / Python / FastAPI —— 但谁关心这个啊，来一起打游戏啊！*
+*技术栈：Vue / Nuxt / Python / FastAPI —— 上号！！*
 
 </details>
 
 ---
 
-## 📊 GitHub？那是啥，能吃吗？
+## 📊 GitHub老吃家
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jvkit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FFD700&text_color=FFFFFF&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvkit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=FFFFFF" height="180" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvkit&theme=radical&hide_border=true&background=0D1117&stroke=FF4444&ring=FFD700&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
 
@@ -406,7 +361,7 @@ def 风屿的日常():
 
 **Made with 🎮 and ❤️ by 风屿 (jvkit)**
 
-*"人生苦短，及时行乐，不如来把无更市。"*
+*"人生苦短，及时行乐，瀚海DD"*
 
 <img src="https://komarev.com/ghpvc/?username=jvkit&color=brightgreen&style=flat-square&label=江湖访客数" />
 

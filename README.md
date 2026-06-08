@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=FF4444&style=for-the-badge&label=江湖访客" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=000000&style=for-the-badge&label=江湖访客" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <!-- 逆水寒宣传大图 -->
 <div align="center">
-  <img src="http://i.17173cdn.com/0561y4/YWxqaGBf/gamebase/game-cover-horizontal/HlcFJGbttijcnar.png" width="80%" alt="逆水寒手游" />
+  <img src="./assets/nsh-cover.png" width="80%" alt="逆水寒手游" />
 </div>
 
 ---
@@ -61,7 +61,7 @@
 <br/>
 
 <!-- 无更市宣传图 -->
-<img src="https://img.166.net/reunionpub/kol_20260228_a0d873a118928153a7303f5806fa2f5a?imageView&tostatic=0&thumbnail=1500x0" width="70%" alt="无更市" />
+<img src="./assets/wugengshi1.jpg" width="70%" alt="无更市" />
 
 <br/><br/>
 
@@ -82,7 +82,7 @@
 <br/>
 
 <!-- 瀚海夺珍攻略图 -->
-<img src="http://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/DaMUfWbtjabliyp.png" width="70%" alt="瀚海夺珍" />
+<img src="./assets/hhzg-guide.png" width="70%" alt="瀚海夺珍" />
 
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://img.166.net/reunionpub/kol_20260228_44a9a619b67af2903f18693f647dee2e?imageView&tostatic=0&thumbnail=1500x0" width="60%" alt="无更市风景" />
+<img src="./assets/wugengshi2.jpg" width="60%" alt="无更市风景" />
 
 </div>
 
@@ -229,6 +229,6 @@ def 风屿的日常():
 
 *"人生苦短，及时行乐，不如来把无更市。"*
 
-<img src="https://komarev.com/ghpvc/?username=jvkit&color=FF4444&style=flat-square&label=江湖访客数" />
+<img src="https://komarev.com/ghpvc/?username=jvkit&color=000000&style=flat-square&label=江湖访客数" />
 
 </div>

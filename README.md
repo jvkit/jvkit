@@ -32,9 +32,9 @@
 ---
 
 <!-- 波浪分隔线 -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<img src="./assets/bottom_header.svg" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="./assets/coding.gif" width="30"> About Me
 
 ```python
 #!/usr/bin/env python3
@@ -160,7 +160,7 @@ print(me)  # → jun_von | Always Building | Vue · Nuxt · Python · FastAPI ·
 
 <div align="center">
 
-<!-- 蛇形动画 -->
+<!-- 蛇形动画（需 GitHub Actions 生成，配置 workflow 后生效） -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake.svg" />

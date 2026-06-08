@@ -202,6 +202,7 @@ def 风屿的日常():
 
 <div align="center">
 
+<!-- 蛇形动画（需 GitHub Actions 生成，配置 workflow 后生效） -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvkit/jvkit/output/github-contribution-grid-snake.svg" />
